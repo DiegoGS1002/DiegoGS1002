@@ -47,9 +47,34 @@
 
 <br/>
 
-<a href="https://github.com/DiegoGS1002" title="Perfil do Diego">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoGS1002&theme=dracula&show_icons=true" />
-</a>
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=DiegoGS1002&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGS1002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoGS1002&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Onde me encontrar
 
