@@ -3,8 +3,9 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas na Gran Faculdade.
 - 💼 Trabalhando como desenvolvedor back-end.
+- 🖥️ Desenvolvimento de Software web, utilizando framework Laravel
+- 🛠️ Criação de API's
 - 🌱 Aprendendo mais sobre automações com agentes de inteligencia artificial.
-
 ## Minhas Skills
 
 **Aplicações e dados**
