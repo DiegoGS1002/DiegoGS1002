@@ -54,7 +54,7 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/diego-garcia-bb75b7288)](www.linkedin.com/in/diego-garcia-bb75b7288)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoaugusto.garciaa@gmail.com)](diegoaugusto.garciaa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-diegoaugusto.garciaa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoaugusto.garciaa@gmail.com)](diegoaugusto.garciaa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/DiegoGS1002)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
