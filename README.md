@@ -78,5 +78,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/diego.dags)
 
-![Snake animation](https://github.com/DiegoGS1002/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DiegoGS1002/DiegoGS2001/blob/output/github-contribution-grid-snake.svg)
 
