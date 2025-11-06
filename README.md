@@ -77,3 +77,5 @@
 )](https://github.com/DiegoGS1002)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/diego.dags)
+
+!{snack animation}()
