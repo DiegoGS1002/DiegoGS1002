@@ -32,6 +32,7 @@ Tecnologias: Laravel • MySQL • REST API • Docker
 🔗 [Aplicação Online](https://nexora-ems-erp--diegogarcias.replit.app/)  
 
 **Download setup.exe**
+
 🔗[Nexora]()
 
 ---
