@@ -35,6 +35,21 @@ Tecnologias: Laravel • MySQL • REST API • Docker
 
 🔗[Nexora]()
 
+## BeTalentech Payment API
+
+API Gateway de pagamentos desenvolvida em **Laravel**, responsável por centralizar autenticação, integração com gateways e gerenciamento de transações.
+
+Tecnologias: PHP 8.4 + Laravel + Docker + MySQL + REST API + JWT Authentication
+
+### Funcionalidades
+- Autenticação de usuários
+- Integração com gateways de pagamento
+- Gerenciamento de transações
+- API REST estruturada
+- Containerização com Docker
+
+🔗 [Repositório GitHub](https://github.com/DiegoGS1002/betalentech-payment-api)  
+
 ---
 
 ### 📚 Atualmente estudando
