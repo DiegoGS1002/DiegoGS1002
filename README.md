@@ -35,7 +35,9 @@ Tecnologias: Laravel • MySQL • REST API • Docker
 
 🔗[Nexora]()
 
-## BeTalentech Payment API
+---
+
+🔹 **BeTalentech Payment API**
 
 API Gateway de pagamentos desenvolvida em **Laravel**, responsável por centralizar autenticação, integração com gateways e gerenciamento de transações.
 
@@ -75,7 +77,7 @@ Tecnologias: PHP 8.4 + Laravel + Docker + MySQL + REST API + JWT Authentication
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -108,6 +110,21 @@ Tecnologias: PHP 8.4 + Laravel + Docker + MySQL + REST API + JWT Authentication
 
 ### 📊 GitHub Analytics
 
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoGS1002&show_icons=true&theme=dark"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGS1002&layout=compact&langs_count=8&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoGS1002&theme=dark"/>
 </p>
@@ -130,7 +147,9 @@ Tecnologias: PHP 8.4 + Laravel + Docker + MySQL + REST API + JWT Authentication
 
 ---
 
+<p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
