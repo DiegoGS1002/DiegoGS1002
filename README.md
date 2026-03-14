@@ -135,6 +135,5 @@ Tecnologias: PHP 8.4 + Laravel + Docker + MySQL + REST API + JWT Authentication
 ---
 
 ### 🐍 Contribuições no GitHub
-> Atualizado automaticamente a cada commit / contribuição.
 
 ![Snake animation](https://github.com/DiegoGS1002/DiegoGS1002/blob/output/github-contribution-grid-snake.svg)
