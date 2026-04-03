@@ -26,7 +26,7 @@ Aberto a oportunidades como **Desenvolvedor Back-end Jr / PHP / Laravel**
 🔹 **Nexora EMS ERP**  
 Sistema ERP Web desenvolvido com Laravel.  
 
-Tecnologias: Laravel • MySQL • REST API • Docker  
+Tecnologias: • Laravel • Livewire • Filament • ApexCharts • Bootstrap • Tailwind CSS • Pest • MySQL • REST API • Docker • PHP 8.2 +  
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexora-ems-erp)  
 🔗 [Aplicação Online](#)  
@@ -37,7 +37,7 @@ Tecnologias: Laravel • MySQL • REST API • Docker
 
 API Gateway de pagamentos desenvolvida em **Laravel**, responsável por centralizar autenticação, integração com gateways e gerenciamento de transações.
 
-Tecnologias: PHP 8.4 + Laravel + Docker + MySQL + REST API + JWT Authentication
+Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • REST API • JWT Authentication
 
 ### Funcionalidades
 - Autenticação de usuários
