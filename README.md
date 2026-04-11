@@ -29,7 +29,7 @@ Sistema ERP Web desenvolvido com Laravel.
 Tecnologias: • Laravel • Livewire • Filament • ApexCharts • Bootstrap • Tailwind CSS • Pest • MySQL • REST API • Docker • PHP 8.2 +  
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexora-ems-erp)  
-🔗 [Aplicação Online](#)  
+🔗 [Aplicação Online](http://144.22.196.242:8000/)  
 
 ---
 
