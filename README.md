@@ -23,7 +23,12 @@ Aberto a oportunidades como **Desenvolvedor Back-end Jr / PHP / Laravel**
 
 ### 🚀 Projetos em destaque
 
-🔹 **Nexora EMS ERP**  
+🔹 **Nexora** 
+Site do ecossistema Nexora 
+
+🔗 [Repositório GitHub](https://github.com/DiegoGS1002/Nexora)  
+🔗 [Ecossistema Nexora](http://144.22.196.242)  
+
 Sistema ERP Web desenvolvido com Laravel.  
 
 Tecnologias: • Laravel • Livewire • Filament • ApexCharts • Bootstrap • Tailwind CSS • Pest • MySQL • REST API • Docker • PHP 8.2 +  
