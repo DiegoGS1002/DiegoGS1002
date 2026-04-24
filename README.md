@@ -23,8 +23,9 @@ Aberto a oportunidades como **Desenvolvedor Back-end Jr / PHP / Laravel**
 
 ### 🚀 Projetos em destaque
 
-🔹 **Nexora** 
-Site do ecossistema Nexora 
+🔹 **Nexora**  
+
+Site Ecossistema Nexora
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/Nexora)  
 🔗 [Ecossistema Nexora](http://144.22.196.242)  
@@ -86,6 +87,11 @@ Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • REST API • JWT 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=filament&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-00E396?style=for-the-badge&logo=apexcharts&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-EF5A6F?style=for-the-badge&logo=pest&logoColor=white)
+![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -105,7 +111,8 @@ Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • REST API • JWT 
 
 ### 🖥️ Ferramentas de desenvolvimento
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 ---
 
