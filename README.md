@@ -32,10 +32,24 @@ Site Ecossistema Nexora
 
 Sistema ERP Web desenvolvido com Laravel.  
 
-Tecnologias: • Laravel • Livewire • Filament • ApexCharts • Bootstrap • Tailwind CSS • Pest • MySQL • REST API • Docker • PHP 8.2 +  
+Tecnologias: • Laravel • Livewire • Filament • ApexCharts • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.2 +  
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexora-ems-erp)  
 🔗 [Aplicação Online](http://144.22.196.242:8000/)  
+
+Força de vendas
+
+Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.4 +  
+
+🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraFDV)
+🔗 [Aplicação Online](http://144.22.196.242)  
+
+E commerce
+
+Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.4 +  
+
+🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraE-commerce)
+🔗 [Aplicação Online](http://144.22.196.242)
 
 ---
 
@@ -43,7 +57,7 @@ Tecnologias: • Laravel • Livewire • Filament • ApexCharts • Bootstrap 
 
 API Gateway de pagamentos desenvolvida em **Laravel**, responsável por centralizar autenticação, integração com gateways e gerenciamento de transações.
 
-Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • REST API • JWT Authentication
+Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • API REST • JWT Authentication
 
 ### Funcionalidades
 - Autenticação de usuários
@@ -59,10 +73,10 @@ Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • REST API • JWT 
 ### 📚 Atualmente estudando
 
 - Arquitetura de Software
-- Docker para aplicações Laravel
 - Testes automatizados (PHPUnit)
 - Clean Architecture
-
+- Agentes de IA
+- RAG
 ---
 
 ### 🧠 Interesses
@@ -71,6 +85,7 @@ Tecnologias: • PHP 8.4+ • Laravel • Docker • MySQL • REST API • JWT 
 - APIs escaláveis
 - Performance em aplicações web
 - Sistemas ERP
+- Agentes de IA
 
 ---
 
