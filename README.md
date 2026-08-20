@@ -49,7 +49,7 @@ E commerce
 Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.4 +  
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraE-commerce)
-🔗 [Aplicação Online](https://ecommerce.cored.com.br)
+🔗 [Aplicação Online](https://ecommerce.cored.tec.br)
 
 ---
 
