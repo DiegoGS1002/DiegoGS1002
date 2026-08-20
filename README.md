@@ -28,7 +28,7 @@ Aberto a oportunidades como **Desenvolvedor Back-end Jr / PHP / Laravel**
 Site Ecossistema Nexora
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/Nexora)  
-🔗 [Ecossistema Nexora]()  
+🔗 [Ecossistema Nexora](https://nexora.cored.tec.br/)  
 
 Sistema ERP Web desenvolvido com Laravel.  
 
@@ -42,14 +42,14 @@ Força de vendas
 Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.4 +  
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraFDV)
-🔗 [Aplicação Online]()  
+🔗 [Aplicação Online](fdv.cored.tec.br)  
 
 E commerce
 
 Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.4 +  
 
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraE-commerce)
-🔗 [Aplicação Online]()
+🔗 [Aplicação Online](ecommerce.cored.com.br)
 
 ---
 
