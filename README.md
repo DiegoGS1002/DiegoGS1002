@@ -44,12 +44,12 @@ Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CS
 🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraFDV)
 🔗 [Aplicação Online](https://fdv.cored.tec.br)  
 
-E commerce
+Suporte IA
 
 Tecnologias: • Laravel • Livewire • Filament • Bootstrap • Tailwind CSS • Pest • MySQL • API REST • Sanctun • Docker • PHP 8.4 +  
 
-🔗 [Repositório GitHub](https://github.com/DiegoGS1002/nexoraE-commerce)
-🔗 [Aplicação Online](https://ecommerce.cored.tec.br)
+🔗 [Repositório GitHub](https://github.com/DiegoGS1002/SuportIA)
+🔗 [Aplicação Online](suporte.cored.tec.br)
 
 ---
 
